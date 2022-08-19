@@ -271,3 +271,167 @@ a:hover {
     color: #555555;
     padding: 4%
 }
+
+
+.review {
+    display: block;
+    background-image: url(images/shapes/Frame\ 59.jpg);
+    background-size: cover;
+}
+
+.review-text {
+    text-align: center;
+    padding: 5% 5% 0% 5%;
+}
+
+.reviwe-tag {
+    font-size: 60px;
+    font-weight: bold;
+    color: #555555;
+}
+
+.review-sub-tag {
+    font-weight: 400;
+    color: #555555;
+    padding: 2% 30% 2% 30%;
+}
+
+.review-box-section {
+    display: flex;
+    flex: 33.33%;
+    padding: 2% 5% 5% 5%;
+    justify-content: space-between;
+}
+
+
+.review-box-1 {
+    background-color: white;
+    box-shadow: 2px 2px 10PX #c4c4c4;
+    border-radius: 10px;
+    padding: 3% 3% 8% 2%;
+    width: 300px;
+
+
+}
+
+.review-box-user-details-1 {
+    display: flex;
+    flex: 50%;
+}
+
+.review-box-image-1 {
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    padding: 10%;
+}
+
+.reviewer-detais-1 {
+    padding: 2% 0% 0% 8%;
+}
+
+.reviewer-name-1 {
+    font-weight: bold;
+    color: #555555;
+}
+
+.reviewer-profession-1 {
+    font-weight: 300;
+    font-size: 16px;
+    color: #555555;
+}
+
+.review-text-1 {
+    font-weight: 500;
+    color: #555555;
+    padding: 5% 1% 10% 1%;
+
+}
+
+.review-box-2 {
+    background-color: white;
+    box-shadow: 2px 2px 10PX #c4c4c4;
+    border-radius: 10px;
+    padding: 3% 3% 8% 2%;
+    width: 300px;
+
+
+}
+
+.review-box-user-details-2 {
+    display: flex;
+    flex: 50%;
+}
+
+.review-box-image-2 {
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    padding: 10%;
+}
+
+.reviewer-detais-2 {
+    padding: 2% 0% 0% 8%;
+}
+
+.reviewer-name-2 {
+    font-weight: bold;
+    color: #555555;
+}
+
+.reviewer-profession-2 {
+    font-weight: 300;
+    font-size: 16px;
+    color: #555555;
+}
+
+.review-text-2 {
+    font-weight: 500;
+    color: #555555;
+    padding: 5% 1% 10% 1%;
+
+}
+
+.review-box-3 {
+    background-color: white;
+    box-shadow: 2px 2px 10PX #c4c4c4;
+    border-radius: 10px;
+    padding: 3% 3% 8% 2%;
+    width: 300px;
+
+
+}
+
+.review-box-user-details-3 {
+    display: flex;
+    flex: 50%;
+}
+
+.review-box-image-3 {
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    padding: 10%;
+}
+
+.reviewer-detais-3 {
+    padding: 2% 0% 0% 8%;
+}
+
+.reviewer-name-3 {
+    font-weight: bold;
+    color: #555555;
+}
+
+.reviewer-profession-3 {
+    font-weight: 300;
+    font-size: 16px;
+    color: #555555;
+}
+
+.review-text-3 {
+    font-weight: 500;
+    color: #555555;
+    padding: 5% 1% 10% 1%;
+
+}
